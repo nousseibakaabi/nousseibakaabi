@@ -26,43 +26,64 @@ Here are some ideas to get you started:
 ---
 
 ## 🎯 About Me  
-2nd-year computer engineering student at **ESPRIT**, passionate about full-stack development, DevOps, and AI. Seeking a summer internship to apply my skills and grow professionally!  
+2nd-year software engineering student at **ESPRIT**, passionate about full-stack development, DevOps, and AI. Seeking a summer internship to apply my skills and grow professionally!  
 
 ---
-
-
 
 
 ## 🛠️ Technologies & Tools  
 
 ### **Programming Languages**  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
 
-### **Frameworks**  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
+### **Frameworks & Libraries**  
+![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?logo=symfony&logoColor=white)
+![Flutter](https://img.shields.io/badge/FlutterFlow-02569B?logo=flutter&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)
 
-### **DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+### **Development Tools**  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![CodeBlocks](https://img.shields.io/badge/CodeBlocks-%2300599C.svg?logo=c&logoColor=white)
+![QT Creator](https://img.shields.io/badge/QT-%23217346.svg?logo=qt&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
 
-### **Design & Tools**  
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+### **Design Tools**  
+![Scene Builder](https://img.shields.io/badge/Scene_Builder-FF6F00?logo=java&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?logo=adobe-illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobe-photoshop&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After_Effects-%239999FF.svg?logo=adobe-after-effects&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
+
+### **Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![H2](https://img.shields.io/badge/H2-4479A1?logo=h2&logoColor=white)
+
+### **Architectures**  
+![Microservices](https://img.shields.io/badge/Microservices-6DB33F?logo=spring&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-%232C5263.svg?logo=jenkins&logoColor=white)
+
+### **Operating Systems**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 ---
 
