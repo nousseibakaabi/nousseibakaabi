@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 # 👋 Hello, I'm Nousseiba Kaabi! 
-### 🚀 Software Engineering Student | Tunisia  
+### 🚀 Software Engineering Student | Full Stack Developer | ESPRIT
 
 📌 **Ariana, Tunisia**  
 📧 nousseiba.kaabi@esprit.tn  
