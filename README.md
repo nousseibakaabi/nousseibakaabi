@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ---
 
+
+### **1. [LAVORO – MERN Project Management AI](https://github.com/nousseibakaabi/Lavoro.git)**  
+[![GitHub Stars](https://img.shields.io/github/stars/YourUsername/lavoro?style=social)](https://github.com/YourUsername/lavoro)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+Full-stack app with real-time collaboration and AI-driven task automation.  
+
 ## 🛠️ Technologies & Tools  
 
 ### **Programming Languages**  
