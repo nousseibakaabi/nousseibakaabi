@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ## 🔥 Featured Projects  
 
-### **1. LAVORO – MERN Project Management AI**  : **[Project Link (https://github.com/nousseibakaabi/Lavoro.git)]**
+### **1. LAVORO – MERN Project Management AI**  : <h4>(https://github.com/nousseibakaabi/Lavoro.git)</h4>
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
 Full-stack app with real-time collaboration and AI-driven task automation.  
 
