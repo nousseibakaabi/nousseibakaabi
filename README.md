@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ### 🚀 Software Engineering Student | Tunisia  
 
 📌 **Ariana, Tunisia**  
-📧 nousseiba.kaabi@esprit.in  
-📞 +216 27405659  
+📧 nousseiba.kaabi@esprit.tn  
+📞 27405659  
 🔗 [LinkedIn](https://www.linkedin.com/in/nousseiba-kaabi-20799223a/)  
 
 ---
@@ -68,17 +68,20 @@ Here are some ideas to get you started:
 
 ## 🔥 Featured Projects  
 
-### **1. LAVORO – MERN Project Management AI**  : <h4>(https://github.com/nousseibakaabi/Lavoro.git)</h4>
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+### **1. LAVORO – MERN Project Management AI**  :
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![API](https://img.shields.io/badge/-API-6DB33F?logo=spring&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?logo=tensorflow&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white) 
 Full-stack app with real-time collaboration and AI-driven task automation.  
 
+
 ### **2. BOOKI – Microservices E-Commerce Platform**  
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Eureka](https://img.shields.io/badge/-Eureka-6DB33F?logo=spring&logoColor=white) ![Keycloak](https://img.shields.io/badge/-Keycloak-2C2F33?logo=keycloak&logoColor=white) ![API Gateway](https://img.shields.io/badge/-API_Gateway-6DB33F?logo=spring&logoColor=white)
 Scalable architecture with API Gateway and service discovery.  
 
+
 ### **3. Automated CI/CD DevOps Pipeline**  
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white) ![Docker Compose](https://img.shields.io/badge/-Docker_Compose-2496ED?logo=docker&logoColor=white) ![Docker Hub](https://img.shields.io/badge/-Docker_Hub-2496ED?logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white) ![Nexus](https://img.shields.io/badge/-Nexus-00A98F?logo=sonatype&logoColor=white) 
 End-to-end automation with Docker, monitoring, and code analysis.  
+
 
 
 
