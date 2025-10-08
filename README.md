@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🎯 About Me  
-2nd-year software engineering student at **ESPRIT**, passionate about full-stack development, DevOps, and AI. Seeking a summer internship to apply my skills and grow professionally!  
+final-year software engineering student at **ESPRIT**, passionate about full-stack development, DevOps, and AI. Seeking a summer internship to apply my skills and grow professionally!  
 
 ---
 
