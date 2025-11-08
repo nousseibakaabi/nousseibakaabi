@@ -1,20 +1,4 @@
 
-<!--
-**nousseibakaabi/nousseibakaabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # 👋 Hello, I'm Nousseiba Kaabi! 
 ### 🚀 Software Engineering Student | Full Stack Developer | ESPRIT
 
@@ -26,7 +10,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🎯 About Me  
-final-year software engineering student at **ESPRIT**, passionate about full-stack development, DevOps, and AI. Seeking an internship to apply my skills and grow professionally!  
+final-year software engineering student at **ESPRIT**, passionate about full-stack development, DevOps, and AI. Seeking an internship for 6 months to apply my skills and grow professionally!  
 
 ---
 
