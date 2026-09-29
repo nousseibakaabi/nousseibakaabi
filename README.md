@@ -1,16 +1,21 @@
 
 # 👋 Hello, I'm Nousseiba Kaabi! 
-### 🚀 Software Engineering Student | Full Stack Developer | ESPRIT
+### 🚀 Computer Engineer | Full-Stack Developer | AI & DevOps Enthusiast
+ 
 
 📌 **Ariana, Tunisia**  
-📧 nousseiba.kaabi@esprit.tn  
+📧 kaabinousseiba11@gmail.com  
 📞 27405659  
 🔗 [LinkedIn](https://www.linkedin.com/in/nousseiba-kaabi-20799223a/)  
 
 ---
 
 ## 🎯 About Me  
-final-year software engineering student at **ESPRIT**, passionate about full-stack development, DevOps, and AI. Seeking an internship for 6 months to apply my skills and grow professionally!  
+Computer Engineer passionate about full-stack development, artificial intelligence, and building innovative software solutions.
+
+I enjoy turning real-world problems into scalable, intelligent, and user-focused applications, from initial requirements and architecture to development, testing, and deployment.
+
+Open to new opportunities in Software Engineering, Full-Stack Development, AI & DevOps. 🚀
 
 ---
 
